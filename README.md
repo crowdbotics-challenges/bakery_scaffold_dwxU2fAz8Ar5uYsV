@@ -1,3 +1,5 @@
+[![Status](https://img.shields.io/badge/status-submittable-brightgreen.svg)](https://travis-ci.com/crowdbotics-challenges/bakery_scaffold_dwxU2fAz8Ar5uYsV/builds/127235987)
+
 A status button will appear above after you make your firt commit. You can click into it to view information about your build. If you think the status is incorrect, check your build or please wait a couple minutes - it may still be building.
 
 # Instructions 
